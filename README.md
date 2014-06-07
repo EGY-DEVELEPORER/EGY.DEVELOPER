@@ -1,0 +1,4 @@
+PHPFUSION--7.02.07-ARABIC
+=========================
+
+PHPFUSION IN ARABIC
